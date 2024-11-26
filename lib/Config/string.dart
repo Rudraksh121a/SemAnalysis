@@ -1,0 +1,2 @@
+const String mainAppName = "SEManalysis";
+
